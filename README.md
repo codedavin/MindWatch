@@ -42,8 +42,8 @@ mindwatch-chat/
 
 1. Clone the Repository  
    
-   git clone https://github.com/codedavin/mindwatch-chat.git  
-   cd mindwatch-chat
+   git clone https://github.com/codedavin/MindWatch  
+   cd MindWatch
 
 2. Configure your Groq API Key:  
    
